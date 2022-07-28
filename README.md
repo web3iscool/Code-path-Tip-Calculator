@@ -1,6 +1,4 @@
-# Code-path-Tip-Calculator
-A calculator developed in Swift using Xcode. Calculates tip on bill.
-Time spent: **6** hours spent in total
+Time spent: **X** hours spent in total
 
 ## User Stories
 
@@ -23,8 +21,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![](https://i.imgur.com/aXYYKy4.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
