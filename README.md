@@ -27,7 +27,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-
+Added the navigation for Settings View Controller.
 
 ## License
 
